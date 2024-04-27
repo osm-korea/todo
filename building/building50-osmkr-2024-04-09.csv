@@ -1,0 +1,24 @@
+Region,지역,OSM,Criteria,Percentage,2024-01-01 대비 증가량,비고
+"Nowon-gu, Seoul",서울 노원구,2885,12863,22.43%,-0.1%p,Criteria는 2023년 기준
+"Gangseo-gu, Seoul",서울 강서구,7610,24880,30.59%,-0.03%p,
+"Gangnam-gu, Seoul",서울 강남구,9791,23446,41.76%,0.51%p,
+"Dalseo-gu, Daegu",대구 달서구,1793,35427,5.06%,1.76%p,
+"Namdong-gu, Incheon",인천 남동구,5105,26619,19.18%,0.27%p,Criteria는 2023년 기준
+"Seo-gu, Incheon",인천 서구,2646,33722,7.85%,4.96%p,
+"Suwon-si, Gyeonggi",경기 수원시,36609,59377,61.66%,2.14%p,
+"Seongnam-si, Gyeonggi",경기 성남시,31768,49152,64.63%,4.31%p,
+"Anyang-si, Gyeonggi",경기 안양시,3621,21653,16.72%,-0.25%p,
+"Bucheon-si, Gyeonggi",경기 부천시,7127,41159,17.32%,0.07%p,
+"Pyeongteak-si, Gyeonggi",경기 평택시,13740,78287,17.55%,1.38%p,
+"Ansan-si, Gyeonggi",경기 안산시,25715,41939,61.32%,0.42%p,
+"Goyang-si, Gyeonggi",경기 고양시,22175,63697,34.81%,0.17%p,
+"Namyangju-si, Gyeonggi",경기 남양주시,15718,59199,26.55%,0.24%p,
+"Siheung-si, Gyeonggi",경기 시흥시,11320,30091,37.62%,6.94%p,
+"Yongin-si, Gyeonggi",경기 용인시,13285,74547,17.82%,0.35%p,
+"Hwaseong-si, Gyeonggi",경기 화성시,9900,111531,8.88%,41.55%p,
+"Cheongju-si, Chungbuk",충북 청주시,12922,117393,11.01%,0.34%p,
+"Cheonan-si, Chungnam",충남 천안시,8883,77422,11.47%,0.86%p,
+"Jeonju-si, Jeonbuk",전북 전주시,23846,67874,35.13%,-0.8%p,
+"Pohang-si, Gyeongbuk",경북 포항시,3462,89867,3.85%,5.39%p,Criteria는 2023년 기준
+"Changwon-si, Gyeongnam",경남 창원시,6585,122240,5.39%,0.37%p,
+"Gimhae-si, Gyeongnam",경남 김해시,2843,61172,4.65%,0.46%p,
